@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Eshant Das</h1>
 <h3 align="center">Data Science Content Researcher at GFG</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9uPAHPSbYvb-J_zG8m4olSl9gGoEWbdQN7PETVg3O&s">
@@ -15,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eshant das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshant das" height="30" width="40" /></a>
-<a href="https://kaggle.com/eshant das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eshant das" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eshant das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eshant-das-8289351b7/" height="30" width="40" /></a>
+<a href="https://kaggle.com/eshant das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/eshantdas" height="30" width="40" /></a>
 <a href="https://instagram.com/jangkilt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jangkilt" height="30" width="40" /></a>
 </p>
 
