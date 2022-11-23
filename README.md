@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Eshant Das</h1>
-<h3 align="center">I am passionate about Data Science & looking for an opportunity to exploit my current skills and become a prominent Data Scientist.</h3>
+<h3 align="center">Data Science Content Researcher at GFG</h3>
 img align="right" alt="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshantdazz&label=Profile%20views&color=0e75b6&style=flat" alt="eshantdazz" /> </p>
 
