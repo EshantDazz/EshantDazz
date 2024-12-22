@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Eshant Das
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E3192&center=true&vCenter=true&width=435&lines=Associate+Data+Scientist;GenAI+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E3192&center=true&vCenter=true&width=435&lines=Associate+Data+Scientist;LLM+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
