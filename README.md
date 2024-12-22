@@ -3,7 +3,7 @@
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E3192&center=true&vCenter=true&width=435&lines=Associate+Data+Scientist;LLM+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E3192&center=true&vCenter=true&width=435&lines=+Data+Scientist;LLM+Engineer;Machine+Learning+Engineer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -21,9 +21,12 @@ Associate Data Scientist with 2.5+ years of experience specializing in Generativ
 
 ### GenAI & NLP
 ![LangChain](https://img.shields.io/badge/🦜️_LangChain-gray?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-green?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-green?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-yellow?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/📚_RAG-blue?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/🤖_AutoGen-purple?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/📊_LangGraph-orange?style=for-the-badge)
+![Haystack](https://img.shields.io/badge/🔍_Haystack-red?style=for-the-badge)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
