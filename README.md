@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Eshant Das
 
 <div align="center">
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E3192&center=true&vCenter=true&width=435&lines=Associate+Data+Scientist;LLM+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
 </div>
 
@@ -15,6 +17,7 @@ Associate Data Scientist with 2.5+ years of experience specializing in Generativ
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### GenAI & NLP
 ![LangChain](https://img.shields.io/badge/🦜️_LangChain-gray?style=for-the-badge)
@@ -27,10 +30,13 @@ Associate Data Scientist with 2.5+ years of experience specializing in Generativ
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Databases
+### Databases & Vector Stores
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-150458?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-00C7B7?style=for-the-badge)
 
 ## 🎯 Expertise
 
