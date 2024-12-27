@@ -71,11 +71,13 @@ Here are some of my notable projects in GenAI and Machine Learning:
 2. **Vector Search Systems** - Implemented efficient document retrieval using PgVector and Pinecone
 3. **LLM Fine-tuning** - Optimized language models for domain-specific tasks, improving accuracy by 20%
 
+<!--
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EshantDazz&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
+-->
 
 ## 🤝 Let's Connect!
 
