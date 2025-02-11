@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E3192&center=true&vCenter=true&width=435&lines=+Data+Scientist;LLM+Engineer;Machine+Learning+Engineer" alt="Typing SVG" />
 </div>
 
-## 🚀 About  Me
+## 🚀 About Me
 Associate Data Scientist with 2.5+ years of experience specializing in Generative AI and deep learning solutions. Passionate about building enterprise-scale ML products and deploying applications through robust CI/CD pipelines. Currently working on cutting-edge GenAI applications that transform business processes.
 
 ## 🔧 Technologies & Tools
